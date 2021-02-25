@@ -33,6 +33,8 @@ class DataPoint:
     def __init__(self, value):
         self.time_stamp_object = TimeStampObject()
         self.value = value
+        
+# hier
 
 
 class UploadDataPoint(DataPoint):
