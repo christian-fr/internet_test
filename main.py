@@ -18,7 +18,7 @@ def timestamp():
 
     return {'time_stamp_str': time.strftime('%Y-%m-%d_%H-%M-%S', t), 'datetime_object': d}
 
-
+# whoa
 # guck mal hier!
 # und hier
 # und hier
