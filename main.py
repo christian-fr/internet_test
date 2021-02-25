@@ -5,6 +5,7 @@ import speedtest
 # hier was rein
 # hier auch
 # und hier erst
+# kein Platz mehr ey
 
 
 # hui
@@ -18,9 +19,7 @@ def timestamp():
 
     return {'time_stamp_str': time.strftime('%Y-%m-%d_%H-%M-%S', t), 'datetime_object': d}
 
-
-# guck mal hier!
-# und hier
+# whoa
 # und hier
 
 class TimeStampObject:
