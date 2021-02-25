@@ -7,6 +7,8 @@ import speedtest
 # und hier erst
 
 
+# hui
+
 def timestamp():
     """
     :return: string timestamp: YYYY-MM-DD-hh-mm
