@@ -17,6 +17,10 @@ def timestamp():
     return {'time_stamp_str': time.strftime('%Y-%m-%d_%H-%M-%S', t), 'datetime_object': d}
 
 
+# guck mal hier!
+# und hier
+# und hier
+
 class TimeStampObject:
     def __init__(self):
         self.time = time.localtime()
